@@ -19,5 +19,5 @@ BERT is very good when dealing with the textual data and it has the pretrained T
 This notebook contains the implemantation of the Bi directional LSTMS and the RNNS while applying the RNN we usually have the problems like gradient vanishing and gradient boosting so we have to use the bidirectional LSTMS which solves these problems very well but due to the lack of the data. 
 4) Simple Machine learning Models
 
-Here in this notebook we increased our dataset and we also included the cases which were given by the Stop the traffik after thier manipulation and data cleaning when we applied the Machine learning models such as Random forest, Ada Boost and Gradient boosting when we applied we got very good results.
+Here in this notebook we increased our dataset and we also included the cases  after thier manipulation and data cleaning when we applied the Machine learning models such as Random forest, Ada Boost and Gradient boosting when we applied we got very good results.
 
